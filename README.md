@@ -1,4 +1,4 @@
-# Statistics-with-R-
+# Statistics-with-R- offered by Prof Vera Demberg
 Saarland University course offered by Prof Vera Demberg 
 
 These are the content which was covered during lecture 
